@@ -1,0 +1,5 @@
+library(naivebayes)
+library(dplyr)
+library(ggplot2)
+m <- data(mtcars)
+str(m)
